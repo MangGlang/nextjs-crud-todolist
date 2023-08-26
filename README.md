@@ -1,3 +1,9 @@
+This program was created in order to test how SSR is more performant than CSR. SSR is better because content is generated on the server, rather than client side. Because of this, websites are more SEO performant, and require little to no loading states.
+
+This project deals with: real-time updates with the firestore database, server side rendering pages, and etc.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
